@@ -4,19 +4,7 @@ A **Java Swing-based Voting System** that allows voter registration, vote castin
 
 ---
 
-## 📂 Project Structure
-```
-/votingsystem
-│── src/com/mycompany/votingsystem/
-│   ├── Form2.java   # Main dashboard
-│   ├── Form3.java   # Booth settings
-│   ├── Form4.java   # Voter registration
-│   ├── Form5.java   # Admin options
-│   ├── Form6.java   # Voter verification
-│   ├── Images/      # UI images
-│── database.sql     # SQL script for database setup
-│── README.md        # Project documentation
-```
+ # Project documentation
 
 ---
 
@@ -91,6 +79,5 @@ If using NetBeans:
 
 ---
 
-## 📜 License
-This project is **open-source** under the **MIT License**.
+
 
